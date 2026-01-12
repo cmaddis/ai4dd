@@ -1,1 +1,1 @@
-# ai4dd_w26_utoronto
+# AI for Drug Discovery at UToronto
