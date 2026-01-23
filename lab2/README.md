@@ -2,7 +2,7 @@
 
 *Large scale cell painting assay visualizes effects of drugs and knockouts*
 
-<a href="https://colab.research.google.com/github/cmaddis/ai4dd/blob/lab2/lab2_module.ipynb?force_refresh=true" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/cmaddis/ai4dd/blob/main/lab2_module.ipynb?force_refresh=true" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 
