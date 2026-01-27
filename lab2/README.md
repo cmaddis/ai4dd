@@ -9,6 +9,10 @@
 - Search for drug-gene interactions
 - Interpret biological significance of computational results
 
+## Create a polaris account
+
+To access the data we will use for this lab, you will need a [polaris](https://polarishub.io/) account. 
+
 ## What to submit
 
 As you go through this notebook, there are questions in each section for you to answer. Assignment questions are indicated with a block quote like this:
