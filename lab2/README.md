@@ -9,6 +9,16 @@
 - Search for drug-gene interactions
 - Interpret biological significance of computational results
 
+## What to submit
+
+As you go through this notebook, there are questions in each section for you to answer. Assignment questions are indicated with a block quote like this:
+
+> 1. Answer this question!
+
+All short anser questions should be completed with **at most** 1-3 sentences. 
+
+Complete this notebook and submit the .ipynb file with all cells run without errors and plots rendered. 
+Make sure the names of all your team, and team number are written at the start of the notebook.
 
 ## Glossary
 
